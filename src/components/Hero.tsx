@@ -15,7 +15,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenVisitModal }) => {
       {/* Background Image with Fallback Container */}
       <div className="absolute inset-0 w-full h-full z-0">
         <img
-          src="/src/assets/images/hero_showroom_luxury_1790774016064.jpg"
+          src="/images/hero_showroom_luxury_1790774016064.jpg"
           alt="Zion Furniture & Interior Luxury Showroom in Davangere"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover object-center scale-105 animate-in fade-in zoom-in-95 duration-1000"
