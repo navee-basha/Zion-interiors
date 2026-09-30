@@ -1,0 +1,8 @@
+{
+  "name": "Zion Furniture & Interior",
+  "description": "Discover furniture and interior solutions at Zion Furniture & Interior, Hadadi Road, Davangere. Explore stylish collections and visit our showroom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
