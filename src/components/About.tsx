@@ -16,7 +16,7 @@ export const About: React.FC<AboutProps> = ({ onDiscoverClick }) => {
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-sm overflow-hidden shadow-2xl shadow-stone-900/10 border border-[#E7E5E4] bg-stone-100 aspect-[4/3]">
               <img
-                src="/src/assets/images/about_showroom_interior_1790774035344.jpg"
+                src="/images/about_showroom_interior_1790774035344.jpg"
                 alt="Zion Furniture & Interior Showroom Setup in Davangere"
                 referrerPolicy="no-referrer"
                 loading="lazy"
